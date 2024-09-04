@@ -1,5 +1,12 @@
 # Stencila Website
 
+## ⚠️ Deprecated
+
+This is the repository for Stencila's web site circa 2022-23. For posterity, this code has been merged into our longer term [`website` repo](https://github.com/stencila/website) (commit [20fa43](https://github.com/stencila/website/commit/20fa4346a8935644be758dc03f03403bc1205ee9)).
+
+
+## About
+
 This is Stencila's marketing website deployed at `stencila.io`. It was bootstrapped from the "Salient" [Tailwind UI](https://tailwindui.com) template which uses:
 
 - [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
